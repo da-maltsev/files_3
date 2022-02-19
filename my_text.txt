@@ -1,0 +1,17 @@
+file1.txt
+3 string(s)
+I'm the first one
+And I have just
+three great lines
+
+file2.txt
+8 string(s)
+And I'm the second
+One
+So
+If
+U
+Don't
+Mind
+I spam some text
+
