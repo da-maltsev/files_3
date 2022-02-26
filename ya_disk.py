@@ -23,5 +23,5 @@ class YaUploader:
 
 
 if __name__ == '__main__':
-    uploader = YaUploader('AQAAAAAIXexdAADLW34cMGtdT0ogj6rlCzn0jLU')
+    uploader = YaUploader('xxx')
     result = uploader.upload("GitHome/HomeWork3/roflan.jpg")
